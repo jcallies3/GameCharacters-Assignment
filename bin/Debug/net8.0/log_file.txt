@@ -1,0 +1,9 @@
+2025-09-30 13:57:25.0997|INFO|GameCharacters.Program|Program started
+2025-09-30 13:57:26.4433|INFO|GameCharacters.Program|User choice: "1"
+2025-09-30 13:57:28.6749|INFO|GameCharacters.Program|User choice: "2"
+2025-09-30 13:57:29.2434|INFO|GameCharacters.Program|User choice: "3"
+2025-09-30 13:57:30.3553|INFO|GameCharacters.Program|User choice: "4"
+2025-09-30 13:57:30.3553|INFO|GameCharacters.Program|Invalid choice
+2025-09-30 13:57:33.5075|INFO|GameCharacters.Program|User choice: "3"
+2025-09-30 13:57:34.4914|INFO|GameCharacters.Program|User choice: ""
+2025-09-30 13:57:34.4914|INFO|GameCharacters.Program|Program ended
