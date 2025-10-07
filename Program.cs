@@ -35,6 +35,7 @@ do
     Console.WriteLine("1) Display Characters");
     Console.WriteLine("2) Add Character");
     Console.WriteLine("3) Remove Character");
+    Console.WriteLine("4) Edit Character");
     Console.WriteLine("Enter to quit");
 
     // input selection
@@ -207,6 +208,14 @@ do
             }
         }
         
+    }
+    else if (choice == "4")
+    {
+        Console.WriteLine("Choose game.");
+        Console.WriteLine("1) Super Mario Bros");
+        Console.WriteLine("2) Donkey Kong");
+        Console.WriteLine("3) Street Fighter 2");
+        choice = Console.ReadLine();
     }
     else if (string.IsNullOrEmpty(choice))
     {
