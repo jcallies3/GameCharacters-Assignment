@@ -7,14 +7,27 @@ var logger = LogManager.Setup().LoadConfigurationFromFile(path).GetCurrentClassL
 
 logger.Info("Program started");
 
-string fileName = "mario.json";
+List<string> fileNames = ["mario.json", "dk.json", "sf2.json"];
+// Deserialize files
 List<Mario> marios = [];
-// check if file exists
-if (File.Exists(fileName))
+List<DonkeyKong> dks = [];
+List<StreetFighter> sfs = [];
+if (File.Exists(fileNames[0]))
 {
-  marios = JsonSerializer.Deserialize<List<Mario>>(File.ReadAllText(fileName))!;
-  logger.Info($"File deserialized {fileName}");
+    marios = JsonSerializer.Deserialize<List<Mario>>(File.ReadAllText(fileNames[0]))!;
+    logger.Info($"File deserialized {fileNames[0]}");
 }
+if (File.Exists(fileNames[1]))
+{
+    dks = JsonSerializer.Deserialize<List<DonkeyKong>>(File.ReadAllText(fileNames[1]))!;
+    logger.Info($"File deserialized {fileNames[1]}");
+}
+if (File.Exists(fileNames[2]))
+{
+    sfs = JsonSerializer.Deserialize<List<StreetFighter>>(File.ReadAllText(fileNames[2]))!;
+    logger.Info($"File deserialized {fileNames[2]}");
+}
+
 
 do
 {
@@ -48,7 +61,7 @@ do
         InputCharacter(mario);
         // Add Character
         marios.Add(mario);
-        File.WriteAllText(marioFileName, JsonSerializer.Serialize(marios));
+        File.WriteAllText(fileNames[0], JsonSerializer.Serialize(marios));
         logger.Info($"Character added: {mario.Name}");
     }
     else if (choice == "3")
@@ -66,7 +79,7 @@ do
             {
                 marios.Remove(character);
                 // serialize list<marioCharacter> into json file
-                File.WriteAllText(marioFileName, JsonSerializer.Serialize(marios));
+                File.WriteAllText(fileNames[0], JsonSerializer.Serialize(marios));
                 logger.Info($"Character Id {Id} removed");
             }
         }

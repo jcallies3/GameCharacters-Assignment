@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1xnzToyn/o=",
+  "dgSpecHash": "a4I1ftkaBpU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jcallies3\\GameCharacters\\GameCharacters.csproj",
+  "projectFilePath": "C:\\Users\\jcallies3\\GameCharacters-Assignment\\GameCharacters.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jcallies3\\.nuget\\packages\\nlog\\5.3.3\\nlog.5.3.3.nupkg.sha512"
   ],

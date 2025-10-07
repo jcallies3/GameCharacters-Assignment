@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcallies3\\GameCharacters\\GameCharacters.csproj",
+      "projectUniqueName": "C:\\Users\\jcallies3\\GameCharacters-Assignment\\GameCharacters.csproj",
       "projectName": "GameCharacters",
-      "projectPath": "C:\\Users\\jcallies3\\GameCharacters\\GameCharacters.csproj",
+      "projectPath": "C:\\Users\\jcallies3\\GameCharacters-Assignment\\GameCharacters.csproj",
       "packagesPath": "C:\\Users\\jcallies3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcallies3\\GameCharacters\\obj\\",
+      "outputPath": "C:\\Users\\jcallies3\\GameCharacters-Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -7,3 +7,9 @@
 2025-09-30 13:57:33.5075|INFO|GameCharacters.Program|User choice: "3"
 2025-09-30 13:57:34.4914|INFO|GameCharacters.Program|User choice: ""
 2025-09-30 13:57:34.4914|INFO|GameCharacters.Program|Program ended
+2025-10-07 13:30:37.7997|INFO|GameCharacters.Program|Program started
+2025-10-07 13:30:37.8809|INFO|GameCharacters.Program|File deserialized mario.json
+2025-10-07 13:30:37.8809|INFO|GameCharacters.Program|File deserialized dk.json
+2025-10-07 13:30:37.8809|INFO|GameCharacters.Program|File deserialized sf2.json
+2025-10-07 13:30:41.2308|INFO|GameCharacters.Program|User choice: ""
+2025-10-07 13:30:41.2308|INFO|GameCharacters.Program|Program ended
