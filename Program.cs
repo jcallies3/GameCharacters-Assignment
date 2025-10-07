@@ -7,13 +7,13 @@ var logger = LogManager.Setup().LoadConfigurationFromFile(path).GetCurrentClassL
 
 logger.Info("Program started");
 
-string marioFileName = "mario.json";
+string fileName = "mario.json";
 List<Mario> marios = [];
 // check if file exists
-if (File.Exists(marioFileName))
+if (File.Exists(fileName))
 {
-  marios = JsonSerializer.Deserialize<List<Mario>>(File.ReadAllText(marioFileName))!;
-  logger.Info($"File deserialized {marioFileName}");
+  marios = JsonSerializer.Deserialize<List<Mario>>(File.ReadAllText(fileName))!;
+  logger.Info($"File deserialized {fileName}");
 }
 
 do
