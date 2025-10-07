@@ -13,3 +13,47 @@
 2025-10-07 13:30:37.8809|INFO|GameCharacters.Program|File deserialized sf2.json
 2025-10-07 13:30:41.2308|INFO|GameCharacters.Program|User choice: ""
 2025-10-07 13:30:41.2308|INFO|GameCharacters.Program|Program ended
+2025-10-07 13:43:20.5517|INFO|GameCharacters.Program|Program started
+2025-10-07 13:43:20.6269|INFO|GameCharacters.Program|File deserialized mario.json
+2025-10-07 13:43:20.6269|INFO|GameCharacters.Program|File deserialized dk.json
+2025-10-07 13:43:20.6269|INFO|GameCharacters.Program|File deserialized sf2.json
+2025-10-07 13:43:26.2921|INFO|GameCharacters.Program|User choice: "1"
+2025-10-07 13:43:39.2759|INFO|GameCharacters.Program|User choice: ""
+2025-10-07 13:43:39.2759|INFO|GameCharacters.Program|Program ended
+2025-10-07 13:44:33.5575|INFO|GameCharacters.Program|Program started
+2025-10-07 13:44:33.6271|INFO|GameCharacters.Program|File deserialized mario.json
+2025-10-07 13:44:33.6271|INFO|GameCharacters.Program|File deserialized dk.json
+2025-10-07 13:44:33.6271|INFO|GameCharacters.Program|File deserialized sf2.json
+2025-10-07 13:44:35.9235|INFO|GameCharacters.Program|User choice: "1"
+2025-10-07 13:44:51.8278|INFO|GameCharacters.Program|User choice: "1"
+2025-10-07 13:45:08.1711|INFO|GameCharacters.Program|User choice: "1"
+2025-10-07 13:45:17.1637|INFO|GameCharacters.Program|User choice: "2"
+2025-10-07 13:45:33.2985|INFO|GameCharacters.Program|Character added: Me
+2025-10-07 13:45:38.5234|INFO|GameCharacters.Program|User choice: "2"
+2025-10-07 13:45:46.9348|INFO|GameCharacters.Program|Character added: Me
+2025-10-07 13:45:48.4349|INFO|GameCharacters.Program|User choice: "2"
+2025-10-07 13:46:08.0859|INFO|GameCharacters.Program|Character added: Me
+2025-10-07 13:46:10.1476|INFO|GameCharacters.Program|User choice: "3"
+2025-10-07 13:47:32.7717|INFO|GameCharacters.Program|Character Id 14 removed
+2025-10-07 13:47:35.9239|INFO|GameCharacters.Program|User choice: "3"
+2025-10-07 13:47:46.5267|INFO|GameCharacters.Program|Character Id 43 removed
+2025-10-07 13:47:51.2757|INFO|GameCharacters.Program|User choice: "3"
+2025-10-07 13:48:03.9744|INFO|GameCharacters.Program|Character Id 9 removed
+2025-10-07 13:48:29.9152|INFO|GameCharacters.Program|User choice: ""
+2025-10-07 13:48:29.9152|INFO|GameCharacters.Program|Program ended
+2025-10-07 13:48:51.2830|INFO|GameCharacters.Program|Program started
+2025-10-07 13:48:51.3532|INFO|GameCharacters.Program|File deserialized mario.json
+2025-10-07 13:48:51.3532|INFO|GameCharacters.Program|File deserialized dk.json
+2025-10-07 13:48:51.3532|INFO|GameCharacters.Program|File deserialized sf2.json
+2025-10-07 13:48:52.8114|INFO|GameCharacters.Program|User choice: "3"
+2025-10-07 13:48:54.6685|INFO|GameCharacters.Program|Character Id 9 removed
+2025-10-07 13:50:36.7958|INFO|GameCharacters.Program|User choice: ""
+2025-10-07 13:50:36.7970|INFO|GameCharacters.Program|Program ended
+2025-10-07 13:50:40.8277|INFO|GameCharacters.Program|Program started
+2025-10-07 13:50:40.8919|INFO|GameCharacters.Program|File deserialized mario.json
+2025-10-07 13:50:40.8919|INFO|GameCharacters.Program|File deserialized dk.json
+2025-10-07 13:50:40.8919|INFO|GameCharacters.Program|File deserialized sf2.json
+2025-10-07 13:50:42.9882|INFO|GameCharacters.Program|User choice: "3"
+2025-10-07 13:50:51.4284|INFO|GameCharacters.Program|Character Id 8 removed
+2025-10-07 13:51:12.7238|INFO|GameCharacters.Program|User choice: ""
+2025-10-07 13:51:12.7238|INFO|GameCharacters.Program|Program ended
